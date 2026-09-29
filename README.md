@@ -7,7 +7,7 @@ A modern and responsive personal portfolio website built with React.js to showca
 ## Live Demo
 
 🌐 **Portfolio:**  
-https://portfolio-4rly--5173--d5306e6f.local-credentialless.webcontainer.io/
+https://portfolio-one-vert-17.vercel.app/
 
 > The live URL above is the development environment URL. A production deployment URL will be added after deployment.
 
